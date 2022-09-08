@@ -13,3 +13,8 @@ img {
     width: 30%;
     height: 30%;
 }
+
+div{
+    display: flex;
+    flex-direction: column;
+}
